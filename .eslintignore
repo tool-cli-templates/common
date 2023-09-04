@@ -2,7 +2,6 @@
 build/
 tests/
 demo/
-.ice/
 
 # node 覆盖率文件
 coverage/
